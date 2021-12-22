@@ -2,10 +2,12 @@
     display: flex;
     width: 100%;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content:start;
 }
 .lista-de-notas-item{
     margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
     background-color: rgb(202, 194, 194);
     border-radius: 10px;
     list-style: none;
