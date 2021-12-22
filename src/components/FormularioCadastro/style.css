@@ -1,0 +1,16 @@
+.form-cadastro{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.form-cadastro input{
+    height: 30px;
+}
+.form-cadastro textarea{
+    margin-top: 10px;
+    height: 80px;
+}
+.form-cadastro button{
+    margin-top: 10px;
+    height: 30px;
+}
